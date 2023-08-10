@@ -1,0 +1,27 @@
+body {
+    font-family: monospace;
+    font-size: 1rem;
+}
+
+
+/* Set padding, margin and background-color */
+.container {
+    background-color: darkgreen;
+    padding: 1.5em;
+    margin: 1.5em;
+}
+
+
+/* Styling Inner Container */
+.inner-container {
+    background-color:lightgoldenrodyellow;
+    padding: 1em;
+}
+
+
+/* Styling Outer Container */
+.outer-container {
+    background-color: grey;
+    padding: 1em;
+    margin: 2.5em;
+}
